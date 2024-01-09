@@ -6,5 +6,7 @@ Tech Stack:
 * PostgreSQL
 * Docker
 * Nginx
+* Gatling
+* Gradle
 
 Use "docker-compose up --build" to run the application on port 8080
