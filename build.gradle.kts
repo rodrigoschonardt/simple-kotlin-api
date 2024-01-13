@@ -40,3 +40,7 @@ tasks.withType<KotlinCompile> {
 tasks.withType<Test> {
 	useJUnitPlatform()
 }
+
+tasks.withType<Jar> {
+	destinationDirectory = File("$rootDir/")
+}
