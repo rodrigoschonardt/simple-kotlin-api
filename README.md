@@ -8,5 +8,6 @@ Tech Stack:
 * Nginx
 * Gatling
 * Gradle
+* Jenkins
 
 Use "docker-compose up --build" to run the application on port 8080
